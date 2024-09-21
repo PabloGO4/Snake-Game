@@ -18,7 +18,7 @@ Este el mítico juego de la serpiente, implementado en Python utilizando el mód
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/PabloGO4/Snake-Game
+   git clone https://github.com/PabloGO4/Snake-Game.git
 
 2.Navega al directorio del juego:
 
